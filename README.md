@@ -12,6 +12,6 @@
  *
  * COOLPHP框架也使用了 whoops 和 Smarty
  *
- * 框架主页 http://www.418412.com/cool/coolphp
+ * 框架主页 http://www.418412.com/
  *
  * 我的QQ 2664671146
