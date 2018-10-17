@@ -6,7 +6,7 @@
  *
  * 非常感谢互联网上的各种大佬的教程思路和最初给了我一个框架概念demo的大佬同事，我也只是个小菜鸡
  *
- * 才有了CoolPHP框架的诞生，最感谢的还是，李虎头大佬，看了他的PPPHP框架开发教程，我才有了想把我的COOLPHP框架开发完善健壮起来，这里附上他的 PPPHP的Github地址，https://github.com/kphcdr/ppphp
+ * 才有了CoolPHP框架的诞生，最感谢的还是，李虎头大佬，看了他的PPPHP框架开发教程，我才有了想把我的COOLPHP框架开发完善健壮起来的动力，这里附上他的 PPPHP的Github地址，https://github.com/kphcdr/ppphp
  *
  * 基本我感觉需要注释的我都注释了
  *
