@@ -21,11 +21,7 @@
       "core/CoolPhp.class.php"
     ],
     "psr-4": {
-      "coolphp\\": "core/coolphp",
-      "app\\": "app"
+      "app\\": "core/app"
     }
-  },
-  "require-dev": {
-    "symfony/console": "^1.1.1"
   }
 }
